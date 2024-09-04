@@ -1,5 +1,5 @@
 git add * &&
-git commit -m "some problems" &&
+git commit -m "$@" &&
 git push origin main  &&
 exit
 
